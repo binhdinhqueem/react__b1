@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+.item__content{
+    margin-top: 50px;
+    gap: 50px;
+}
+
+.item__icon i{
+    font-size: 40px;
+    width: 70px;
+    border-radius: 10px;
+    color: white;
+    background-color: #0d6efd;
+    position: absolute;
+    top: -20%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* #0d6efd */
+.item__icon{
+    padding: 20px;
+}
+
+.item{
+    background-color: #f8f9fa;
+    height: 180px;
+    width: 350px;
+    margin-top: 30px;
+    position: relative;
+}
+
+.item__text{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.item__text h3{
+    font-size: 22px;
+    font-weight: bold;
+}

@@ -1,0 +1,18 @@
+.banner{
+    padding: 100px;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+
+.banner h2{
+    font-size: 60px;
+}
+
+.banner p{
+    font-size: 20px;
+}
+
+.banner button{
+    padding: 10px 15px;
+    font-size: 20px;
+}
